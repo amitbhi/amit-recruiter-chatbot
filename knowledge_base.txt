@@ -1,0 +1,302 @@
+# Amit Bhise - Professional Profile and Background
+
+## Contact Information
+- Name: Amit Bhise (AB)
+- Email: amitvishnu@gmail.com
+- Phone: +91 98908 97285
+- LinkedIn: Available
+- GitHub: Available
+- Location: Bavdhan Khurd, Pune, India
+- Relocation: Ready to relocate
+
+## Professional Summary
+Amit Bhise is an Artificial Intelligence Leader with expertise in Data & AI, Agentic AI at Scale, and Embodied AI Research. He has approximately two decades of progressive leadership across IT and advanced analytics, including 11+ years in Data Science and 7+ years in Generative AI. 
+
+He has a proven track record of building and scaling global data organizations across India, Europe, the United States, and Australia. He is known for translating AI strategy into measurable business outcomes across complex industrial environments.
+
+Amit actively participates in global thought leadership forums including Gartner Data & Analytics Summit and NorthStar AI Conference, ensuring alignment with frontier developments in enterprise AI and analytics.
+
+## Current Role
+
+### Suzlon Energy Ltd - AGM / Lead Data Scientist (March 2025 - Present)
+
+**Enterprise AI & Analytics Leadership:**
+- Co-owns and operationalizes enterprise-scale AI strategy within a ₹9 Cr (€0.87M) analytics portfolio
+- Leads a 40-member federated analytics organization (6 direct reports, 37 matrixed)
+- Delivers cross-functional impact under an Agile operating model
+
+**Operational Intelligence & Predictive Systems:**
+- Architected SCADA-driven predictive maintenance platform
+- Reduced unplanned downtime by 8%
+- Unlocked ₹1.2 Cr (€135K) in annualized savings across the monitored fleet
+
+**Asset Performance & Revenue Uplift:**
+- Drove fleet availability improvement from 96.2% to 97.6%
+- Achieved ~18 MWh incremental generation per 50 MW cluster
+- Directly impacted revenue realization
+
+**Gen-AI RAG Assistant:**
+- Deployed multilingual GenAI RAG assistant for field technicians
+- Reduced Mean Time to Resolution (MTTR) by 28%
+- Improved first-time-fix rates across operations
+
+**Executive Decision Intelligence:**
+- Built voice-enabled Text-to-SQL interface for leadership dashboards
+- Compressed decision latency from ~1 hour to under 3 minutes
+- Enabled real-time executive insights
+
+**Computer Vision & Automation:**
+- Led deployment of drone-enabled inspection systems
+- Achieved 93% detection precision with computer vision models
+- Reduced manual quality control effort by 55%
+
+**AI Platformization & MLOps:**
+- Institutionalized enterprise-grade MLOps (Docker, Kubernetes, Prometheus)
+- Reduced model deployment cycle time from 12 weeks to 3 weeks
+- Enabled scalable AI delivery
+
+**Geospatial Intelligence Platform:**
+- Designed and launched global Map Analytics platform (PostGIS, Mapbox, FastAPI)
+- Assesses wind project siting feasibility using multi-layer geospatial constraints
+
+**Industry Engagement:**
+- Represents organization in global AI and analytics forums
+- Contributes to industry dialogue
+- Benchmarks against emerging enterprise AI capabilities
+
+## Previous Work Experience
+
+### Tata Consultancy Services - Process Associate / Data Scientist (June 2015 - August 2024)
+
+**Telstra Project:**
+- Early automation and data process management
+
+**Morgan Stanley Project:**
+- Snowflake onboarding project (10 months)
+- Migrated from bi-temporal data warehouse
+- RPA team lead managing ~30 members
+- Python automation development
+- Deployed deep learning architectures (CNNs, RNNs)
+- Experience in fintech ecosystems (State Street Aladdin, BlackRock)
+
+**Rockefeller Foundation Project:**
+- Led development of Gen-AI RAG assistant
+- Architected scalable MLOps ecosystems with Docker, Kubernetes, and CI/CD
+- Orchestrated cross-functional collaboration
+- Transitioned prototypes into cloud-native microservices
+- Advocated data-centric AI strategies ensuring transparency and auditability
+
+**Professional Development:**
+- Worked across multi-cultural teams
+- Active participant in Toastmasters
+- Participated in TCS Maitree programs
+
+### Hutchison Whampoa / 3 Global Services - Senior Associate (June 2007 - January 2011)
+
+- Supported Hutchison's "3" brand pioneering global 3G networks
+- Involved in HSDPA rollouts, early video calls, broadband dongles
+- Played cross-functional role during Hutch to Vodafone transition
+- Coordinated with NOC/OSS teams for provisioning faults
+- Worked with Customer Service Operations for escalations
+- Liaised with Group Tech / 3 Global Technical Centres (UK/HK) for firmware and app updates
+- Delivered KPIs around activation rates and customer satisfaction
+- Bridged network engineering, handset provisioning and VAS systems
+- Enabled 3G services and content delivery
+
+### Wipro Ltd - Associate Consultant (December 2004 - July 2006)
+
+- Technical support for Dell USA clientele on Dell products
+- Client calibration on quality standards
+- Training new joiners
+- Conducting team refreshers
+
+## Research & Publications
+
+### Published Research
+
+**Behaviour & Information Technology (Scopus Indexed)**
+- Title: "Personal Logs as First-Class Longitudinal Data Objects for Human-Centered AI"
+- CiteScore: 8.6
+- Impact Factor: 3.1
+- Focus: Integration of personal longitudinal data into AI systems to enhance human-centered design and long-term data utility
+- Investigated methodologies for treating logs as primary data objects in persistent AI interactions
+
+**Applied Research Paper**
+- Title: "Knowledge Graph-Driven Operational Intelligence in Wind Energy OMS"
+- Subtitle: "An Explanatory Case Study of Agentic AI Opportunity Assessment, Operational Landscape Discovery, and Proof-of-Concept Validation in a Multi-SPV Wind Energy OMS Portfolio"
+- Developed KG-driven framework for operational intelligence in renewable energy
+- Validated agentic AI opportunities within complex multi-SPV wind energy portfolios
+- Streamlined operational landscape discovery using automated reasoning and knowledge extraction
+
+## Education & Certifications
+
+**Formal Education:**
+- Master's Degree from MIT, Pune
+
+**Professional Certifications & Courses:**
+- Machine Learning — Exploratory, Predictive & Prescriptive — L'avenir Institute of Professional Studies
+- Blackbelt in Data Science — Analytics Vidhya
+- Mathematics for Artificial Intelligence — Bhaskaracharya Pratishthan
+  - Linear Algebra
+  - Multivariate Calculus
+  - Probability
+  - Discrete Mathematics
+
+## Technical Skills & Expertise
+
+**AI & Machine Learning:**
+- Generative AI (7+ years experience)
+- Data Science (11+ years experience)
+- Deep Learning (CNNs, RNNs)
+- Computer Vision
+- Natural Language Processing
+- RAG (Retrieval-Augmented Generation) systems
+- Agentic AI at Scale
+- Embodied AI Research
+
+**MLOps & Infrastructure:**
+- Docker
+- Kubernetes
+- Prometheus
+- CI/CD pipelines
+- Cloud-native microservices
+- Scalable AI delivery systems
+
+**Data & Analytics:**
+- Predictive maintenance
+- SCADA systems
+- Time-series analysis
+- Geospatial intelligence
+- Knowledge Graphs
+- Neo4j
+
+**Programming & Tools:**
+- Python
+- SQL (Text-to-SQL)
+- RPA (Robotic Process Automation)
+- Snowflake
+- PostGIS
+- Mapbox
+- FastAPI
+
+**Domain Expertise:**
+- Renewable Energy (Wind Energy)
+- Operations Management Systems (OMS)
+- Financial Technology (FinTech)
+- Enterprise AI Strategy
+- Predictive Analytics
+- Fleet Management
+
+## Social & Cultural Initiatives
+
+**Child Protection Initiative:**
+- Participated in Dr. Klaus Beier's (Universitätsmedizin Charité – Berlin) initiative through Indo-German relationship
+- Dedicated to preventing child sexual abuse through evidence-based psychological interventions
+- Attended national conference "Online interests, offline consequences: Navigating Complex Sexualities in Digital Context"
+- Focused on digital-era psychosexual awareness and public health outreach
+- Worked with Dr. Vasudeo Paralikar, Ph.D. (Psychiatry, Universität Basel, Schweiz)
+- Collaborated with Dr. Ujwal Nene, Ph.D. (Sexology)
+
+## Personal Interests & Passions
+
+**Drama:**
+- Admirer of Bertolt Brecht theatre
+- Follower of Dr. Mohan Agashe's work
+
+**Linguistics:**
+- Studying Panini's Ashtadhyayi and Mahabhashya
+
+**Philosophy:**
+- Member of Socrates Club, Pune
+- Speaker on Metaphysics - Ontology and Epistemology
+
+**Languages:**
+- Marathi (Native)
+- English (Native)
+- German (A2 Level - Goethe-Institut, Max Müller Bhavan)
+- Indian languages (Conversational proficiency)
+
+**Dietary Preference:**
+- Vegetarian
+
+## Letters of Recommendation
+
+Amit has received letters of recommendation from:
+- Pro-Chancellor, MIT - M.T. Karad
+- Suzlon Group CIO - Sunil Nair
+- Social - V.P. Paralikar
+
+## Family Background & Personal Life
+
+**Early Life:**
+- Born in Phaltan, Maharashtra, India
+- Attended St Patrick's School, Pune for a formative decade
+- Dedicated hockey player during school years
+- Developed teamwork and discipline through sports
+
+**Family Legacy:**
+- Father: Vishnu Bhise
+  - Heads Development & Planning at MAEER (Maharashtra Academy of Engineering and Educational Research)
+  - Felicitated by the Vice-President of India
+  - Architected the Peace Dome — world's largest prollate ellipsoid long axis vertical dome of its time
+- Mother: Indian Classical Musician
+- Sister: Yoga Teacher
+
+**Current Family:**
+- Lives in Bavdhan Khurd, Pune
+- Wife: Gauri (Interior Designer)
+- Two daughters
+- Lives with parents and sister
+- Strong family foundation supports professional drive and commitment to social impact
+
+## Key Achievements & Impact Metrics
+
+**Quantifiable Business Impact:**
+- ₹1.2 Cr (€135K) annualized savings through predictive maintenance
+- 8% reduction in unplanned downtime
+- Fleet availability improvement: 96.2% → 97.6%
+- ~18 MWh incremental generation per 50 MW cluster
+- 28% reduction in Mean Time to Resolution (MTTR)
+- Decision latency reduction: ~1 hour → under 3 minutes
+- 93% detection precision in computer vision systems
+- 55% reduction in manual quality control effort
+- Model deployment cycle time: 12 weeks → 3 weeks
+
+**Organizational Leadership:**
+- Managed 40-member federated analytics organization
+- Led RPA team of ~30 members at Morgan Stanley
+- ₹9 Cr (€0.87M) analytics portfolio management
+- Global team experience across India, Europe, USA, Australia
+
+**Industry Recognition:**
+- Active participant in Gartner Data & Analytics Summit
+- Participant in NorthStar AI Conference
+- Represents organization in global AI forums
+- Published in Scopus-indexed journals
+
+## Professional Philosophy & Approach
+
+Amit is known for:
+- Translating AI strategy into measurable business outcomes
+- Building scalable AI systems in complex industrial environments
+- Data-centric AI strategies with emphasis on transparency and auditability
+- Cross-functional collaboration and team leadership
+- Bridging technical innovation with business value
+- Agile operating models for AI delivery
+
+## Geographic & Work Preferences
+
+- Currently based in Pune, India
+- Relocation Ready
+- Experience working across multiple geographies: India, Europe, United States, Australia
+- Comfortable with multi-cultural teams
+- Global industry engagement
+
+## Contact & Availability
+
+Amit Bhise is open to opportunities and collaborations. He can be reached at:
+- Email: amitvishnu@gmail.com
+- Phone: +91 98908 97285
+- Professional networks: LinkedIn, GitHub
+
+He is relocation-ready and available for roles that leverage his expertise in AI leadership, data science, and enterprise AI transformation.

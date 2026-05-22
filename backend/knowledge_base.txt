@@ -24,6 +24,8 @@ Amit actively participates in global thought leadership forums including Gartner
 
 **End-to-End Data & AI Ownership:** Lead full-stack delivery spanning data engineering, advanced analytics, and AI—ensuring alignment from data foundation to business impact across operations, reliability, and revenue functions.
 
+**LLM Analytics Ecosystem:** Led development of an LLM-enabled analytics ecosystem integrating SAP ECC and HANA datasets, implementing business-rule transformations, Redis indexed cache architecture with scheduled refresh, semantic metadata/view definitions for AI interpretability, and dashboards for anomaly monitoring and operational insights.
+
 **Operational Intelligence & Reliability Engineering:** Architected a SCADA-driven predictive maintenance platform, reducing unplanned downtime by 8% and delivering ₹1.2 Cr (€135K) in annualized savings.
 
 **Asset Performance & Revenue Acceleration:** Improved fleet availability from 96.2% to 97.6%, unlocking ~18 MWh incremental generation per 50 MW cluster and directly enhancing revenue realization.

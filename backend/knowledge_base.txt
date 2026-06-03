@@ -92,19 +92,39 @@ Amit actively participates in global thought leadership forums including Gartner
 
 ### Published Research
 
-**Behaviour & Information Technology (Scopus Indexed)**
-- Title: "Personal Logs as First-Class Longitudinal Data Objects for Human-Centered AI"
+**International Journal of Human-Computer Studies**
+- Title: "Personal Logs as First-Class Longitudinal Data Objects for Human-Centred AI"
 - CiteScore: 8.6
-- Impact Factor: 3.1
-- Focus: Integration of personal longitudinal data into AI systems to enhance human-centered design and long-term data utility
-- Investigated methodologies for treating logs as primary data objects in persistent AI interactions
+- Impact Factor: 6.0
+- Status: Under Review / Preprint (SSRN)
+- Focus: Integration of personal longitudinal data into AI systems to enhance human-centered design and long-term data utility.
+- Investigated methodologies for treating logs as primary data objects in persistent AI interactions, implementing blockchain-anchored Merkle tree integrity and latent value signal extraction.
 
-**Applied Research Paper**
+**Engineering Applications of Artificial Intelligence**
+- Title: "An Engineering Architecture for Multi-Agent Graph-Based Corporate Intelligence and Decision Support Across Regulatory Jurisdictions"
+- Impact Factor: ~8.0–9.0
+- Status: Awaiting Publication
+- Focus: Designing a multi-agent, graph-based corporate intelligence system (Business Insider) that integrates MCA, SEC, and BRIS regulatory registries.
+- Implemented the Graph-Based Ownership Inference Engine (GOIE) and Weak Founder Detection (WFD) to automate corporate governance risk audits with 93.8% accuracy.
+
+**Engineering Applications of Artificial Intelligence**
 - Title: "Knowledge Graph-Driven Operational Intelligence in Wind Energy OMS"
 - Subtitle: "An Explanatory Case Study of Agentic AI Opportunity Assessment, Operational Landscape Discovery, and Proof-of-Concept Validation in a Multi-SPV Wind Energy OMS Portfolio"
-- Developed KG-driven framework for operational intelligence in renewable energy
-- Validated agentic AI opportunities within complex multi-SPV wind energy portfolios
-- Streamlined operational landscape discovery using automated reasoning and knowledge extraction
+- Status: Submitted (IF ~8.0–9.0)
+- Focus: Knowledge Graph-driven framework for operational intelligence in renewable energy operations.
+- Built a Neo4j-based knowledge graph integrating SCADA, SAP ERP, and contract data; applied RISAC role mapping and SIPOC process modelling to identify scalable Agentic AI opportunities.
+
+**Energy and AI**
+- Title: "Momentum-Based Anomaly Detection and Variance Instability Scoring for Wind Turbine Fleet Monitoring: Adapting MACD and Composite VIS to Non-Normal Industrial Telemetry"
+- Status: Submitted (IF ~8.0–9.0)
+- Focus: Production-scale availability monitoring and multi-method anomaly detection for large-scale wind turbine telemetry.
+- Developed a composite Variance Instability Score (VIS) and adapted the financial MACD momentum indicator to telemetry data, achieving a 4.7-day lead time before availability declines and reducing contractual liquidated damages (LDs) with an 18x correlation factor.
+
+**Behaviour & Information Technology**
+- Title: "From Tacit Knowledge to Agentic AI: Empathic Interviewing as a Design Input Methodology for Industrial AI Systems"
+- Status: Submitted (IF ~3.1)
+- Focus: Formulating qualitative empathic interviewing as a primary design input for encoding tacit engineering knowledge into Agentic AI systems.
+- Formalized the SECI-to-AI pipeline to externalize senior technician diagnostic heuristics into a Neo4j knowledge graph, demonstrating a proof-of-concept ML-based technician dispatch system that significantly reduces MTTR.
 
 ## Education & Certifications
 

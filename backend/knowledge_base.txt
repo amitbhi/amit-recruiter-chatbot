@@ -92,6 +92,12 @@ Amit actively participates in global thought leadership forums including Gartner
 
 ### Published Research
 
+**Zenodo (Preprint)**
+- Title: "Hybrid Digital Twins as Cognitive Control Environments: An Empirical Investigation of Digital Twin Fidelity and Reinforcement Learning Performance in Cyber-Physical Systems"
+- Status: Published / Preprint
+- Focus: Investigating the relationship between digital twin model fidelity (neural-network DT with R² up to 0.94) and reinforcement learning (PPO) control performance in cyber-physical systems using a low-cost water-tank simulator.
+- Key contributions include a reproducible digital twin testbed, sim-to-real transfer validation showing moderate fidelity reductions (R² = 0.85) do not impede policy convergence, and reward-function analysis.
+
 **International Journal of Human-Computer Studies**
 - Title: "Personal Logs as First-Class Longitudinal Data Objects for Human-Centred AI"
 - CiteScore: 8.6
